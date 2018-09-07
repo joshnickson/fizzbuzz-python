@@ -8,3 +8,5 @@ def fizzbuzz(x):
     else:
         return x
 
+for i in range(1,101):
+    print fizzbuzz(i)
