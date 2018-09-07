@@ -15,3 +15,8 @@ def test_fizzbuzz_multiples_of_5():
     assert fizzbuzz(5) == 'Buzz'
     assert fizzbuzz(10) == 'Buzz'
     assert fizzbuzz(50) == 'Buzz'  
+
+def test_fizzbuzz_multiples_of_5():
+    assert fizzbuzz(15) == 'Fizzbuzz!'
+    assert fizzbuzz(30) == 'Fizzbuzz!'
+    assert fizzbuzz(60) == 'Fizzbuzz!'  
