@@ -1,4 +1,5 @@
 [
   "test_fizzbuzz.py::test_fizzbuzz_normal_numbers", 
-  "test_fizzbuzz.py::test_fizzbuzz_multiples_of_3"
+  "test_fizzbuzz.py::test_fizzbuzz_multiples_of_3", 
+  "test_fizzbuzz.py::test_fizzbuzz_multiples_of_5"
 ]
